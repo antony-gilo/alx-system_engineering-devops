@@ -4,5 +4,9 @@
 _This script prints “Hello, World”, followed by a new line to the standard output._
 ---
 2. 1-confused_smiley </br>
-_This script prints a confused smilet face_
+_This script prints a confused smiley face_
+---
+3. 2-hellofile </br>
+_This script displays the content of the /etc/passwd file._
+---
 
