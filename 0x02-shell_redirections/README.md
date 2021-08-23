@@ -14,4 +14,8 @@ _Script to display the content of /etc/passwd and /etc/hosts_
 ---
 5. 4-lastlines </br>
 _Script that displays the last 10 lines of /etc/passwd_
+--
+6. 5-firstlines </br>
+_Script that displays the first 10 lines of /etc/passwd file_
 ---
+
