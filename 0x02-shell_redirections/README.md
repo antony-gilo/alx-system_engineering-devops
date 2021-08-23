@@ -39,4 +39,7 @@ _script that counts the number of directories and sub-directories in the current
 13. 12-newest_files </br>
 _script that displays the 10 newest files in the current directory._
 ---
-14. _
+14. 13-unique </br>
+_script that takes a list of words as input and prints only words that appear exactly once._
+---
+15. 
