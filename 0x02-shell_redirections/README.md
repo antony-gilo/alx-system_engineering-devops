@@ -9,4 +9,9 @@ _This script prints a confused smiley face_
 3. 2-hellofile </br>
 _This script displays the content of the /etc/passwd file._
 ---
-
+4. 3-twofiles </br>
+_Script to display the content of /etc/passwd and /etc/hosts_
+---
+5. 4-lastlines </br>
+_Script that displays the last 10 lines of /etc/passwd_
+---
