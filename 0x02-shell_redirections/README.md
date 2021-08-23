@@ -27,4 +27,7 @@ _script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
 9. 8-cwd_state </br>
 _script that writes into the file ls_cwd_content the result of the command ls -la_
 ---
-10.   
+10. 9-duplicate_last_line </br>
+_script that duplicates the last line of the file iacta_
+---
+11.   
