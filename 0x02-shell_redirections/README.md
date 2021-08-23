@@ -34,4 +34,9 @@ _script that duplicates the last line of the file iacta_
 _script that deletes all the regular files (not the directories) with a .js extension"
 ---
 12. 11-directories </br>
-_script that counts the number of directories and sub-directories in the current directory._
+_script that counts the number of directories and sub-directories in the current directory.
+---
+13. 12-newest_files </br>
+_script that displays the 10 newest files in the current directory._
+---
+14. _
