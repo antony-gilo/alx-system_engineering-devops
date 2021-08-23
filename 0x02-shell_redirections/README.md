@@ -42,4 +42,7 @@ _script that displays the 10 newest files in the current directory._
 14. 13-unique </br>
 _script that takes a list of words as input and prints only words that appear exactly once._
 ---
-15. 
+15. 14-findthatword </br>
+_script that displays lines containing the pattern “root” from the file /etc/passwd"
+---
+16.  
