@@ -33,4 +33,5 @@ _script that duplicates the last line of the file iacta_
 11.  10-no_more_js </br>
 _script that deletes all the regular files (not the directories) with a .js extension"
 ---
-12.  
+12. 11-directories </br>
+_script that counts the number of directories and sub-directories in the current directory._
