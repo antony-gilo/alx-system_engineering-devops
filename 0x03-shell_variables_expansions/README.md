@@ -39,4 +39,6 @@ _script that displays the result of BREATH to the power LOVE_
 13. 11-binary_to_decimal </br>
 _script that converts a number from base 2 to base 10._
 ---
-14.   
+14. 12-combinations </br>
+_script that prints all possible combinations of two letters, except oo._
+---
