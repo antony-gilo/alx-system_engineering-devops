@@ -52,6 +52,7 @@ _script that converts a number from base 10 to base 16._
 _script that encodes and decodes text using the rot13 encryption. Assume ASCII_
 ---
 18. 101-odd </br>
-_ script that prints every other line from the input_
+_script that prints every other line from the input_
 ---
-19.   
+19. 102-water_and_stir </br>
+_script that adds the two numbers stored in the environment variables WATER and STIR and prints the result_   
