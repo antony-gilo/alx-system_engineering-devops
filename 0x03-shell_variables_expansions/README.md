@@ -45,4 +45,7 @@ _script that prints all possible combinations of two letters, except oo._
 15. 13-print_float </br>
 _script that prints a number with two decimal places_
 ---
-16. 
+16. 14-decimal_to_hexadecimal </br>
+_script that converts a number from base 10 to base 16._
+---
+17.  
