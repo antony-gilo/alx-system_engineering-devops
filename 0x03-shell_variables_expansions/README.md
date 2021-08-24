@@ -30,4 +30,7 @@ _script that creates a new global variable._
 10. 8-true_knowledge </br>
 _script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE_
 ---
-11. 
+11. 9-divide_and_rule </br>
+_script that prints the result of POWER divided by DIVIDE_
+---
+12. 
