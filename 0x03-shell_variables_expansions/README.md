@@ -18,4 +18,7 @@ _script that counts the number of directories in the PATH._
 6. 4-global_variables </br>
 _script that lists environment variables._
 ---
-7. 
+7. 5-local_variables </br>
+_script that lists all local variables and environment variables, and functions._
+---
+ 
