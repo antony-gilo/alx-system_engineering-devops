@@ -25,4 +25,6 @@ _script that lists all local variables and environment variables, and functions.
 _script that creates a new local variable._
 ---
 9. 7-create_global_variable </br>
-_ 
+_script that creates a new global variable._
+---
+10.  
