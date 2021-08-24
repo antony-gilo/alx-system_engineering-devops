@@ -42,3 +42,7 @@ _script that converts a number from base 2 to base 10._
 14. 12-combinations </br>
 _script that prints all possible combinations of two letters, except oo._
 ---
+15. 13-print_float </br>
+_script that prints a number with two decimal places_
+---
+16. 
