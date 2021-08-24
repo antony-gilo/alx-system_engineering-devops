@@ -33,4 +33,7 @@ _script that prints the result of the addition of 128 with the value stored in t
 11. 9-divide_and_rule </br>
 _script that prints the result of POWER divided by DIVIDE_
 ---
-12. 
+12. 10-love_exponent_breath </br>
+_script that displays the result of BREATH to the power LOVE_
+---
+13.  
