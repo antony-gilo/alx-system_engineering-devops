@@ -12,4 +12,19 @@ _script that prints hello user, where user is the current Linux user._
 4. 2-path </br>
 _script that will Add /action to the PATH._
 ---
-
+5. 3-paths </br>
+_script that counts the number of directories in the PATH._
+---
+6. 5. 3-paths </br>
+_script that counts the number of directories in the PATH._
+---
+6. 5. 3-paths </br>
+_script that counts the number of directories in the PATH._
+---
+6. 5. 3-paths </br>
+_script that counts the number of directories in the PATH._
+---
+6. 5. 3-paths </br>
+_script that counts the number of directories in the PATH._
+---
+6. 
