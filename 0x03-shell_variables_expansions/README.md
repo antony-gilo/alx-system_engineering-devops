@@ -27,4 +27,7 @@ _script that creates a new local variable._
 9. 7-create_global_variable </br>
 _script that creates a new global variable._
 ---
-10.  
+10. 8-true_knowledge </br>
+_script that prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE_
+---
+11. 
