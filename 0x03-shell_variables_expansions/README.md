@@ -36,4 +36,7 @@ _script that prints the result of POWER divided by DIVIDE_
 12. 10-love_exponent_breath </br>
 _script that displays the result of BREATH to the power LOVE_
 ---
-13.  
+13. 11-binary_to_decimal </br>
+_script that converts a number from base 2 to base 10._
+---
+14.   
