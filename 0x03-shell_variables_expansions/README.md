@@ -15,16 +15,7 @@ _script that will Add /action to the PATH._
 5. 3-paths </br>
 _script that counts the number of directories in the PATH._
 ---
-6. 5. 3-paths </br>
-_script that counts the number of directories in the PATH._
+6. 4-global_variables </br>
+_script that lists environment variables._
 ---
-6. 5. 3-paths </br>
-_script that counts the number of directories in the PATH._
----
-6. 5. 3-paths </br>
-_script that counts the number of directories in the PATH._
----
-6. 5. 3-paths </br>
-_script that counts the number of directories in the PATH._
----
-6. 
+7. 
