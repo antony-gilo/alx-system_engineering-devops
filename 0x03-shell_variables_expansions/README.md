@@ -48,4 +48,7 @@ _script that prints a number with two decimal places_
 16. 14-decimal_to_hexadecimal </br>
 _script that converts a number from base 10 to base 16._
 ---
-17.  
+17. 100-rot13 </br>
+_script that encodes and decodes text using the rot13 encryption. Assume ASCII_
+---
+18.  
